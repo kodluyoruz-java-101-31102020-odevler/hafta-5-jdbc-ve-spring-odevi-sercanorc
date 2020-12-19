@@ -8,7 +8,7 @@
     <artifactId>hafta-5-jdbc-ve-spring-odevi-sercanorc</artifactId>
     <version>1.0-SNAPSHOT</version>
 
-    <properties><mysql.version>5.1.48</mysql.version>
+    <properties><mysql.version>8.0.16</mysql.version>
         <mongodb.version>3.4.2</mongodb.version>
         <log4j.version>1.2.17</log4j.version>
     </properties>
